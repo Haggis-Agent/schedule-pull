@@ -153,7 +153,7 @@ def create_or_update_ical_event(event_data, ical_event=None):
 
         valarm_doors = Alarm()
         valarm_doors.add("ACTION", "DISPLAY")
-        valarm_doors.add("DESCRIPTION", "Doors in 30 minutes!")
+        valarm_doors.add("DESCRIPTION", "30 Minutes to Doors")
         valarm_doors.add(
             "TRIGGER;VALUE=DATE-TIME",
             dt_to_utc_ical_string(alarm_time_doors)
@@ -167,7 +167,7 @@ def create_or_update_ical_event(event_data, ical_event=None):
 
         valarm_show = Alarm()
         valarm_show.add("ACTION", "DISPLAY")
-        valarm_show.add("DESCRIPTION", "Show in 15 minutes!")
+        valarm_show.add("DESCRIPTION", "15 Minutes to Show")
         valarm_show.add(
             "TRIGGER;VALUE=DATE-TIME",
             dt_to_utc_ical_string(alarm_time_show)
