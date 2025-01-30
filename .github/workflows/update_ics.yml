@@ -1,5 +1,8 @@
 name: Update ICS
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     # Run daily at 04:30 UTC (you can pick your own time)
