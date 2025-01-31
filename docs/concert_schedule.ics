@@ -392,11 +392,11 @@ BEGIN:VEVENT
 SUMMARY:The Fray
 DTSTART:2025-04-25
 DTEND:2025-04-26
-DTSTAMP:2025-01-28 17:23:09
+DTSTAMP:2025-01-30 14:15:46
 UID:829252@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Indie / E
  mo
-LAST-MODIFIED:2025-01-28 17:23:09
+LAST-MODIFIED:2025-01-30 14:15:46
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/829252/the-fray-tickets
 END:VEVENT
@@ -477,10 +477,10 @@ BEGIN:VEVENT
 SUMMARY:Alyssa Edwards
 DTSTART:2025-05-11
 DTEND:2025-05-12
-DTSTAMP:2024-12-10 21:48:45
+DTSTAMP:2025-01-30 14:12:24
 UID:782029@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Other
-LAST-MODIFIED:2024-12-10 21:48:45
+LAST-MODIFIED:2025-01-30 14:12:24
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/782029/alyssa-edwards-tickets
 END:VEVENT
@@ -594,11 +594,11 @@ BEGIN:VEVENT
 SUMMARY:Jack's Mannequin
 DTSTART:2025-06-12
 DTEND:2025-06-13
-DTSTAMP:2025-01-28 14:32:11
+DTSTAMP:2025-01-30 14:51:30
 UID:827960@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Indie / E
  mo
-LAST-MODIFIED:2025-01-28 14:32:11
+LAST-MODIFIED:2025-01-30 14:51:30
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/827960/jack-s-mannequin-tickets
 END:VEVENT
