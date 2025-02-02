@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 BEGIN:VEVENT
-SUMMARY:Saved By The 90s
-DTSTART:2025-01-31
-DTEND:2025-02-01
-DTSTAMP:2024-11-15 16:15:24
-UID:765964@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Rock
-LAST-MODIFIED:2024-11-15 16:15:24
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/765964/saved-by-the-90s-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rubblebucket
 DTSTART:2025-02-04
 DTEND:2025-02-05
