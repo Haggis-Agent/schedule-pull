@@ -2,8 +2,9 @@
 
 import os
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from icalendar import Calendar, Event
+from icalendar.prop import vDatetime  # to force proper RFC 5545 formatting
 
 ICS_FILENAME = "concert_schedule.ics"
 FEED_URL = "https://aegwebprod.blob.core.windows.net/json/events/51/events.json"
@@ -11,7 +12,7 @@ FEED_URL = "https://aegwebprod.blob.core.windows.net/json/events/51/events.json"
 def fetch_events():
     """
     Fetch all events from the AEG feed.
-    Returns a list of event dictionaries (each with eventId, etc.).
+    Returns a list of event dictionaries.
     """
     resp = requests.get(FEED_URL)
     resp.raise_for_status()  # Raise an exception if HTTP error
@@ -34,19 +35,25 @@ def format_time_no_leading_zero(dt: datetime) -> str:
     ampm_str = dt.strftime("%p")     # "AM" or "PM"
     return f"{hour_12}:{minute_str} {ampm_str}"
 
+def from_iso(dt_str):
+    """
+    Convert an ISO formatted string to a timezone-aware datetime in UTC.
+    Assumes the input is in UTC.
+    """
+    # Parse the string to a datetime object
+    dt = datetime.fromisoformat(dt_str)
+    # Force it to be UTC (if it's not already timezone-aware)
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt
+
 def create_or_update_ical_event(event_data, ical_event=None):
     """
     Create a new VEVENT or update an existing one (if ical_event is provided).
-    Uses all-day (date-based) DTSTART/DTEND. Omits ticket URL from DESCRIPTION.
-    under21 => false => All Ages; true => 21+ Only.
-    Times use format_time_no_leading_zero to drop leading zero on hours.
+    Uses all-day (date-based) DTSTART/DTEND.
     """
-
     if ical_event is None:
         ical_event = Event()
-
-    def from_iso(dt_str):
-        return datetime.fromisoformat(dt_str)
 
     # 1) UID
     event_id = event_data["eventId"]  # e.g. "765964"
@@ -57,16 +64,22 @@ def create_or_update_ical_event(event_data, ical_event=None):
     created_str = event_data.get("createdUTC", "2025-01-01T00:00:00")
     modified_str = event_data.get("modifiedUTC", "2025-01-01T00:00:00")
     dt_modified = from_iso(modified_str)
-    ical_event["DTSTAMP"] = dt_modified
-    ical_event["LAST-MODIFIED"] = dt_modified
+    ical_event["DTSTAMP"] = vDatetime(dt_modified)
+    ical_event["LAST-MODIFIED"] = vDatetime(dt_modified)
 
     # 3) All-day start/end from eventDateTime
     show_dt_str = event_data["eventDateTime"]  # e.g. "2025-01-31T20:00:00"
     show_dt = from_iso(show_dt_str)
     start_date = show_dt.date()
     end_date = (show_dt + timedelta(days=1)).date()
-    ical_event["DTSTART"] = start_date
-    ical_event["DTEND"] = end_date
+    # Remove any previous DTSTART/DTEND entries if updating
+    if "DTSTART" in ical_event:
+        del ical_event["DTSTART"]
+    if "DTEND" in ical_event:
+        del ical_event["DTEND"]
+    # Add with proper parameters for date-only values
+    ical_event.add("DTSTART", start_date, parameters={"VALUE": "DATE"})
+    ical_event.add("DTEND", end_date, parameters={"VALUE": "DATE"})
 
     # 4) SUMMARY (Title)
     ical_event["SUMMARY"] = event_data["title"]["eventTitleText"]
@@ -88,25 +101,21 @@ def create_or_update_ical_event(event_data, ical_event=None):
     # Show
     desc_lines.append(f"Show: {format_time_no_leading_zero(show_dt)}")
 
-    # NEW: If there's a "supportingText" field under event_data["title"], append "Support: ...".
+    # Support (if available)
     supporting_text = event_data["title"].get("supportingText")
     if supporting_text:
         desc_lines.append(f"Support: {supporting_text}")
 
-    # under21 => false => All Ages; true => 21+ Only
+    # under21 => false => All Ages; true => 21+ Only, plus genre info
     headliners = event_data.get("associations", {}).get("headliners", [])
     if headliners:
         hl = headliners[0]
         under21 = hl.get("under21", False)
         minor_cat = hl.get("minorCategoryText", "Unknown Genre")
-        if under21:
-            age_str = "21+ Only"
-        else:
-            age_str = "All Ages"
+        age_str = "21+ Only" if under21 else "All Ages"
         desc_lines.append(f"Age: {age_str}")
         desc_lines.append(f"Genre: {minor_cat}")
 
-    # No ticket URL in description
     ical_event["DESCRIPTION"] = "\n".join(desc_lines)
 
     # 7) URL => ticket link
@@ -117,12 +126,11 @@ def create_or_update_ical_event(event_data, ical_event=None):
 
 def main():
     """
-    - Loads existing concert_schedule.ics or creates new
-    - Fetches all events from feed
-    - For each event in feed, add/update in ICS
-    - Do NOT remove old events => they stay in the .ics
-    - Times have no leading zero for hours
-    - Writes updated .ics
+    - Loads existing concert_schedule.ics or creates new.
+    - Fetches all events from feed.
+    - For each event in feed, add/update in ICS.
+    - Does NOT remove old events => they remain in the .ics.
+    - Writes updated .ics.
     """
     # 1) Load or create calendar
     if os.path.exists(ICS_FILENAME):
@@ -133,6 +141,8 @@ def main():
         cal = Calendar()
         cal.add("prodid", "-//TheNationalVA//ConcertSchedule//EN")
         cal.add("version", "2.0")
+        # Add CALSCALE (recommended)
+        cal.add("calscale", "GREGORIAN")
         print(f"No existing '{ICS_FILENAME}' found. Created a new one.")
 
     existing_events = {}
@@ -144,7 +154,7 @@ def main():
     all_events = fetch_events()
     print(f"Fetched {len(all_events)} events from feed '{FEED_URL}'.")
 
-    # 3) Add or update
+    # 3) Add or update events in the calendar
     for evt_data in all_events:
         uid_value = f"{evt_data['eventId']}@thenationalva.com"
         if uid_value in existing_events:
