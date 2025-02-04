@@ -172,11 +172,11 @@ BEGIN:VEVENT
 SUMMARY:Bright Eyes
 DTSTART;VALUE=DATE:20250310
 DTEND;VALUE=DATE:20250311
-DTSTAMP:20240806T130315Z
+DTSTAMP:20250203T175426Z
 UID:644730@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Indie / E
- mo
-LAST-MODIFIED:20240806T130315Z
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Merce Lemon\nAge: All 
+ Ages\nGenre: Indie / Emo
+LAST-MODIFIED:20250203T175426Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/644730/bright-eyes-tickets
 END:VEVENT
@@ -266,10 +266,10 @@ BEGIN:VEVENT
 SUMMARY:Jon Lovitz
 DTSTART;VALUE=DATE:20250408
 DTEND;VALUE=DATE:20250409
-DTSTAMP:20250122T195124Z
+DTSTAMP:20250203T162425Z
 UID:829660@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Comedy
-LAST-MODIFIED:20250122T195124Z
+LAST-MODIFIED:20250203T162425Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/829660/jon-lovitz-tickets
 END:VEVENT
@@ -344,16 +344,15 @@ LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/742653/chiodos-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Our House: The Music of CSNY by Family & Friends
+SUMMARY:OUR HOUSE: The Music of CSNY
 DTSTART;VALUE=DATE:20250419
 DTEND;VALUE=DATE:20250420
-DTSTAMP:20250127T153556Z
+DTSTAMP:20250203T153140Z
 UID:829620@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Rock
-LAST-MODIFIED:20250127T153556Z
+LAST-MODIFIED:20250203T153140Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/829620/our-house-the-music-of-csny-by-famil
- y-friends-tickets
+URL:https://www.axs.com/events/829620/our-house-the-music-of-csny-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Magdalena Bay
@@ -366,6 +365,18 @@ DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Sam Austins\nAge: All
 LAST-MODIFIED:20241227T134949Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/788951/magdalena-bay-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Julien Baker + TORRES
+DTSTART;VALUE=DATE:20250423
+DTEND;VALUE=DATE:20250424
+DTSTAMP:20250131T220510Z
+UID:838142@thenationalva.com
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Indie / E
+ mo
+LAST-MODIFIED:20250131T220510Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/838142/julien-baker-torres-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paul Reiser
@@ -596,10 +607,10 @@ BEGIN:VEVENT
 SUMMARY:Illiterate Light + Mo Lowda & The Humble
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
-DTSTAMP:20250127T143753Z
+DTSTAMP:20250203T172659Z
 UID:827072@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Rock
-LAST-MODIFIED:20250127T143753Z
+LAST-MODIFIED:20250203T172659Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/827072/illiterate-light-mo-lowda-the-humble
  -tickets
