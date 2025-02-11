@@ -618,6 +618,18 @@ LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/819708/trevor-wallace-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mary Chapin Carpenter
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+DTSTAMP:20250210T194230Z
+UID:832481@thenationalva.com
+DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: Brandy Clark\nAge: All
+  Ages\nGenre: Folk / Acoustic
+LAST-MODIFIED:20250210T194230Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/832481/mary-chapin-carpenter-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lawrence
 DTSTART;VALUE=DATE:20251026
 DTEND;VALUE=DATE:20251027
