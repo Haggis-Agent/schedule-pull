@@ -6,11 +6,12 @@ BEGIN:VEVENT
 SUMMARY:Of The Trees
 DTSTART;VALUE=DATE:20250226
 DTEND;VALUE=DATE:20250227
-DTSTAMP:20241211T212740Z
+DTSTAMP:20250224T152602Z
 UID:757864@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Eazybaked\, Fly\, Mind
- set\nAge: All Ages\nGenre: Dance / Electronic
-LAST-MODIFIED:20241211T212740Z
+DESCRIPTION:Doors: 6:30 PM\nShow: 6:30 PM\nSupport: Eazybaked\, Fly\, Mind
+ set\, air castles\, Rhythm City Collective\nAge: All Ages\nGenre: Dance / 
+ Electronic
+LAST-MODIFIED:20250224T152602Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/757864/of-the-trees-tickets
 END:VEVENT
