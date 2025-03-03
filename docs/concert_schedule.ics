@@ -3,30 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:The Stews
-DTSTART;VALUE=DATE:20250301
-DTEND;VALUE=DATE:20250302
-DTSTAMP:20250124T155838Z
-UID:752270@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 8:00 PM\nSupport: Jack Stepanian\, Wim T
- apley & The Cannons \nAge: All Ages\nGenre: Rock
-LAST-MODIFIED:20250124T155838Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/752270/the-stews-tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flogging Molly
-DTSTART;VALUE=DATE:20250302
-DTEND;VALUE=DATE:20250303
-DTSTAMP:20250205T173428Z
-UID:782800@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: The Aggrolites\, Slaug
- hterhouse\nAge: All Ages\nGenre: Alternative / Punk
-LAST-MODIFIED:20250205T173428Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/782800/flogging-molly-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Michael Shannon & Jason Narducy 
 DTSTART;VALUE=DATE:20250303
 DTEND;VALUE=DATE:20250304
