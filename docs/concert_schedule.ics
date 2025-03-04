@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Michael Shannon & Jason Narducy 
-DTSTART;VALUE=DATE:20250303
-DTEND;VALUE=DATE:20250304
-DTSTAMP:20241202T152302Z
-UID:690699@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Dave Hill\nAge: All Ag
- es\nGenre: Hard Rock / Metal
-LAST-MODIFIED:20241202T152302Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/690699/michael-shannon-jason-narducy-ticket
- s
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Plot In You
 DTSTART;VALUE=DATE:20250308
 DTEND;VALUE=DATE:20250309
