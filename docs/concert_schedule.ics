@@ -30,11 +30,11 @@ BEGIN:VEVENT
 SUMMARY:Bright Eyes
 DTSTART;VALUE=DATE:20250310
 DTEND;VALUE=DATE:20250311
-DTSTAMP:20250203T175426Z
+DTSTAMP:20250304T145010Z
 UID:644730@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Merce Lemon\nAge: All 
  Ages\nGenre: Indie / Emo
-LAST-MODIFIED:20250203T175426Z
+LAST-MODIFIED:20250304T145010Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/644730/bright-eyes-tickets
 END:VEVENT
@@ -542,6 +542,18 @@ LAST-MODIFIED:20250203T172659Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/827072/illiterate-light-mo-lowda-the-humble
  -tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aimee Mann
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+DTSTAMP:20250303T174016Z
+UID:874720@thenationalva.com
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Jonathan Coulton\nAge:
+  All Ages\nGenre: Pop
+LAST-MODIFIED:20250303T174016Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/874720/aimee-mann-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Max McNown
