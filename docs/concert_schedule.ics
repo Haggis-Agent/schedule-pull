@@ -134,11 +134,11 @@ BEGIN:VEVENT
 SUMMARY:AWOLNATION
 DTSTART;VALUE=DATE:20250413
 DTEND;VALUE=DATE:20250414
-DTSTAMP:20250225T163449Z
+DTSTAMP:20250312T142649Z
 UID:681216@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Bryce Fox\nAge: All Ag
  es\nGenre: Alternative / Punk
-LAST-MODIFIED:20250225T163449Z
+LAST-MODIFIED:20250312T142649Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/681216/awolnation-tickets
 END:VEVENT
@@ -252,10 +252,11 @@ BEGIN:VEVENT
 SUMMARY:Ice Nine Kills
 DTSTART;VALUE=DATE:20250429
 DTEND;VALUE=DATE:20250430
-DTSTAMP:20250228T161418Z
+DTSTAMP:20250312T170131Z
 UID:844223@thenationalva.com
-DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Other
-LAST-MODIFIED:20250228T161418Z
+DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: Hail the Sun\, The Wor
+ d Alive\nAge: All Ages\nGenre: Other
+LAST-MODIFIED:20250312T170131Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/844223/ice-nine-kills-tickets
 END:VEVENT
@@ -364,6 +365,18 @@ DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Pop
 LAST-MODIFIED:20250115T145426Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/821017/livingston-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electric Feels
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+DTSTAMP:20250310T165222Z
+UID:887063@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Indie / E
+ mo
+LAST-MODIFIED:20250310T165222Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/887063/electric-feels-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MJ Lenderman & The Wind
