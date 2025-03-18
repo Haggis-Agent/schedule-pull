@@ -486,6 +486,18 @@ LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/827960/jack-s-mannequin-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bingo Loco
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+DTSTAMP:20250312T174101Z
+UID:892080@thenationalva.com
+DESCRIPTION:Doors: 5:30 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Dance / E
+ lectronic
+LAST-MODIFIED:20250312T174101Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/892080/bingo-loco-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Illiterate Light + Mo Lowda & The Humble
 DTSTART;VALUE=DATE:20250614
 DTEND;VALUE=DATE:20250615
