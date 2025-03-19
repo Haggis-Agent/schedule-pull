@@ -6,11 +6,11 @@ BEGIN:VEVENT
 SUMMARY:José González
 DTSTART;VALUE=DATE:20250322
 DTEND;VALUE=DATE:20250323
-DTSTAMP:20241202T182353Z
+DTSTAMP:20250318T135545Z
 UID:706845@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Folk / Ac
  oustic
-LAST-MODIFIED:20241202T182353Z
+LAST-MODIFIED:20250318T135545Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/706845/jose-gonzalez-tickets
 END:VEVENT
@@ -169,11 +169,11 @@ BEGIN:VEVENT
 SUMMARY:Magdalena Bay
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
-DTSTAMP:20241227T134949Z
+DTSTAMP:20250318T135545Z
 UID:788951@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Sam Austins\nAge: All 
  Ages\nGenre: Pop
-LAST-MODIFIED:20241227T134949Z
+LAST-MODIFIED:20250318T135545Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/788951/magdalena-bay-tickets
 END:VEVENT
@@ -578,6 +578,39 @@ DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Country
 LAST-MODIFIED:20250306T215747Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/882971/muscadine-bloodline-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noel Miller: Live!
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250914
+DTSTAMP:20250312T163357Z
+UID:873775@thenationalva.com
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Comedy
+LAST-MODIFIED:20250312T163357Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/873775/noel-miller-live-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noel Miller LIVE! (Late Show)
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250914
+DTSTAMP:20250312T162902Z
+UID:879910@thenationalva.com
+DESCRIPTION:Doors: 9:00 PM\nShow: 9:30 PM\nAge: All Ages\nGenre: Comedy
+LAST-MODIFIED:20250312T162902Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/879910/noel-miller-live-late-show-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Whitney Cummings
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+DTSTAMP:20250313T175742Z
+UID:891235@thenationalva.com
+DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Comedy
+LAST-MODIFIED:20250313T175742Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/891235/whitney-cummings-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JOHNNYSWIM
