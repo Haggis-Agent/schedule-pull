@@ -169,11 +169,11 @@ BEGIN:VEVENT
 SUMMARY:Julien Baker + TORRES
 DTSTART;VALUE=DATE:20250423
 DTEND;VALUE=DATE:20250424
-DTSTAMP:20250131T220510Z
+DTSTAMP:20250328T170133Z
 UID:838142@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Indie / E
- mo
-LAST-MODIFIED:20250131T220510Z
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Aisha Burns\nAge: All 
+ Ages\nGenre: Indie / Emo
+LAST-MODIFIED:20250328T170133Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/838142/julien-baker-torres-tickets
 END:VEVENT
