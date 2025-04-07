@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:The Tallest Man on Earth
-DTSTART;VALUE=DATE:20250406
-DTEND;VALUE=DATE:20250407
-DTSTAMP:20250325T171753Z
-UID:788981@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: The Still Tide\nAge: A
- ll Ages\nGenre: Folk / Acoustic
-LAST-MODIFIED:20250325T171753Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/788981/the-tallest-man-on-earth-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jon Lovitz
 DTSTART;VALUE=DATE:20250408
 DTEND;VALUE=DATE:20250409
