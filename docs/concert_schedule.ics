@@ -533,6 +533,19 @@ LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/819708/trevor-wallace-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:I Love the 80's feat. A Flock of Seagulls
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+DTSTAMP:20250404T201722Z
+UID:922527@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Bow Wow Wow feat. Anna
+ bella\, Animotion\nAge: All Ages\nGenre: Other
+LAST-MODIFIED:20250404T201722Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/922527/i-love-the-80-s-feat-a-flock-of-seag
+ ulls-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JoJo Siwa LIVE
 DTSTART;VALUE=DATE:20250722
 DTEND;VALUE=DATE:20250723
@@ -598,6 +611,18 @@ DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Comedy
 LAST-MODIFIED:20250313T175742Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/891235/whitney-cummings-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Franz Ferdinand
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
+DTSTAMP:20250401T182701Z
+UID:916791@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Alternati
+ ve / Punk
+LAST-MODIFIED:20250401T182701Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/916791/franz-ferdinand-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JOHNNYSWIM
