@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Municipal Waste
-DTSTART;VALUE=DATE:20250412
-DTEND;VALUE=DATE:20250413
-DTSTAMP:20250320T192553Z
-UID:704306@thenationalva.com
-DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: Toxic Holocaust\, Midn
- ight\, Dropdead\, Enforced\nAge: All Ages\nGenre: Alternative / Punk
-LAST-MODIFIED:20250320T192553Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/704306/municipal-waste-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AWOLNATION
 DTSTART;VALUE=DATE:20250413
 DTEND;VALUE=DATE:20250414
