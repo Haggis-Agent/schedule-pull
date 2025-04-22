@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Magdalena Bay
-DTSTART;VALUE=DATE:20250421
-DTEND;VALUE=DATE:20250422
-DTSTAMP:20250318T135545Z
-UID:788951@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Sam Austins\nAge: All 
- Ages\nGenre: Pop
-LAST-MODIFIED:20250318T135545Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/788951/magdalena-bay-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Julien Baker + TORRES
 DTSTART;VALUE=DATE:20250423
 DTEND;VALUE=DATE:20250424
@@ -441,6 +429,19 @@ LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/819708/trevor-wallace-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rick Wakeman
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250719
+DTSTAMP:20250421T183252Z
+UID:943289@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Featuring the vocals o
+ f Hayley Sanderson from The UK’s Strictly Come Dancing \nAge: All Ages\n
+ Genre: Other
+LAST-MODIFIED:20250421T183252Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/943289/rick-wakeman-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:I Love the 80's feat. A Flock of Seagulls
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250720
@@ -611,6 +612,17 @@ DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Pop
 LAST-MODIFIED:20250114T145722Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/771710/lawrence-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ty Myers
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+DTSTAMP:20250421T155315Z
+UID:925825@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Country
+LAST-MODIFIED:20250421T155315Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/925825/ty-myers-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ancient Aliens LIVE
