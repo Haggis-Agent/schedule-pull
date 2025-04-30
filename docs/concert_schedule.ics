@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Ice Nine Kills
-DTSTART;VALUE=DATE:20250429
-DTEND;VALUE=DATE:20250430
-DTSTAMP:20250312T170131Z
-UID:844223@thenationalva.com
-DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: Hail the Sun\, The Wor
- d Alive\nAge: All Ages\nGenre: Hard Rock / Metal
-LAST-MODIFIED:20250312T170131Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/844223/ice-nine-kills-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zack Fox (DJ Set)
 DTSTART;VALUE=DATE:20250501
 DTEND;VALUE=DATE:20250502
@@ -475,6 +463,18 @@ DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Rock
 LAST-MODIFIED:20250418T234127Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/932472/the-darkness-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddox Batson
+DTSTART;VALUE=DATE:20250907
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20250429T202810Z
+UID:953048@thenationalva.com
+DESCRIPTION:Doors: 6:30 PM\nShow: 8:00 PM\nSupport: Ashley Anne\nAge: All 
+ Ages\nGenre: Country
+LAST-MODIFIED:20250429T202810Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/953048/maddox-batson-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Noel Miller: Live!
