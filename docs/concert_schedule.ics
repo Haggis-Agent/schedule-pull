@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Zack Fox (DJ Set)
-DTSTART;VALUE=DATE:20250501
-DTEND;VALUE=DATE:20250502
-DTSTAMP:20250310T200120Z
-UID:873530@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Comedy
-LAST-MODIFIED:20250310T200120Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/873530/zack-fox-dj-set-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHAOS & CARNAGE 2025 ft. Dying Fetus + Cradle of Filth
 DTSTART;VALUE=DATE:20250502
 DTEND;VALUE=DATE:20250503
@@ -468,11 +457,11 @@ BEGIN:VEVENT
 SUMMARY:Maddox Batson
 DTSTART;VALUE=DATE:20250907
 DTEND;VALUE=DATE:20250908
-DTSTAMP:20250429T202810Z
+DTSTAMP:20250501T185410Z
 UID:953048@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 8:00 PM\nSupport: Ashley Anne\nAge: All 
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Ashley Anne\nAge: All 
  Ages\nGenre: Country
-LAST-MODIFIED:20250429T202810Z
+LAST-MODIFIED:20250501T185410Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/953048/maddox-batson-tickets
 END:VEVENT
@@ -611,6 +600,17 @@ DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Country
 LAST-MODIFIED:20250423T152502Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/925825/ty-myers-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Happy Fits
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+DTSTAMP:20250501T194205Z
+UID:951650@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Other
+LAST-MODIFIED:20250501T194205Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/951650/the-happy-fits-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ancient Aliens LIVE
