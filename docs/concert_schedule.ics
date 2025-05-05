@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Gillian Welch & David Rawlings
-DTSTART;VALUE=DATE:20250504
-DTEND;VALUE=DATE:20250505
-DTSTAMP:20250416T140530Z
-UID:752263@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Country
-LAST-MODIFIED:20250416T140530Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/752263/gillian-welch-david-rawlings-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ZOSO (The Ultimate Led Zeppelin Experience)
 DTSTART;VALUE=DATE:20250509
 DTEND;VALUE=DATE:20250510
