@@ -90,11 +90,11 @@ BEGIN:VEVENT
 SUMMARY:Lucius
 DTSTART;VALUE=DATE:20250520
 DTEND;VALUE=DATE:20250521
-DTSTAMP:20250428T195548Z
+DTSTAMP:20250505T144100Z
 UID:839516@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Victoria Canal\nAge: A
  ll Ages\nGenre: Indie / Emo
-LAST-MODIFIED:20250428T195548Z
+LAST-MODIFIED:20250505T144100Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/839516/lucius-tickets
 END:VEVENT
@@ -430,6 +430,18 @@ LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/953048/maddox-batson-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Big Wild
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250909
+DTSTAMP:20250505T202956Z
+UID:951692@thenationalva.com
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Dance / E
+ lectronic
+LAST-MODIFIED:20250505T202956Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/951692/big-wild-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Noel Miller: Live!
 DTSTART;VALUE=DATE:20250913
 DTEND;VALUE=DATE:20250914
@@ -452,6 +464,18 @@ LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/879910/noel-miller-live-late-show-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Phantogram
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250916
+DTSTAMP:20250501T152916Z
+UID:953042@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 7:30 PM\nSupport: Open Mike Eagle\nAge: 
+ All Ages\nGenre: Dance / Electronic
+LAST-MODIFIED:20250501T152916Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/953042/phantogram-tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inhaler
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
@@ -461,6 +485,19 @@ DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Rock
 LAST-MODIFIED:20250421T185916Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/942980/inhaler-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOP MAKING SENSE: a film by Jonathan Demme & Talking Heads
+DTSTART;VALUE=DATE:20250917
+DTEND;VALUE=DATE:20250918
+DTSTAMP:20250502T161221Z
+UID:943806@thenationalva.com
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Live Event Hosted by J
+ erry Harrison
+LAST-MODIFIED:20250502T161221Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/943806/stop-making-sense-a-film-by-jonathan
+ -demme-talking-heads-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Whitney Cummings
