@@ -303,10 +303,10 @@ BEGIN:VEVENT
 SUMMARY:JoJo Siwa LIVE
 DTSTART;VALUE=DATE:20250722
 DTEND;VALUE=DATE:20250723
-DTSTAMP:20250325T141033Z
+DTSTAMP:20250514T161622Z
 UID:902470@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: 21+ Only\nGenre: Pop
-LAST-MODIFIED:20250325T141033Z
+LAST-MODIFIED:20250514T161622Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/902470/jojo-siwa-live-tickets
 END:VEVENT
@@ -320,6 +320,18 @@ DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Rock
 LAST-MODIFIED:20250423T202530Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/943800/the-english-beat-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Whitney
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250810
+DTSTAMP:20250514T155112Z
+UID:974333@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: with Special Guest Fol
+ k Bitch Trio\nAge: All Ages\nGenre: Indie / Emo
+LAST-MODIFIED:20250514T155112Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/974333/whitney-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In This Moment
@@ -337,11 +349,11 @@ BEGIN:VEVENT
 SUMMARY:The Wood Brothers
 DTSTART;VALUE=DATE:20250813
 DTEND;VALUE=DATE:20250814
-DTSTAMP:20250410T184419Z
+DTSTAMP:20250514T164447Z
 UID:908832@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Jazz / Bl
- ues
-LAST-MODIFIED:20250410T184419Z
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Mason Via\nAge: All Ag
+ es\nGenre: Jazz / Blues
+LAST-MODIFIED:20250514T164447Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/908832/the-wood-brothers-tickets
 END:VEVENT
@@ -658,6 +670,17 @@ DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Other
 LAST-MODIFIED:20250501T194205Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/951650/the-happy-fits-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richie Kotzen + John 5
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251105
+DTSTAMP:20250514T133602Z
+UID:974343@thenationalva.com
+DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Other
+LAST-MODIFIED:20250514T133602Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/974343/richie-kotzen-john-5-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ancient Aliens LIVE
