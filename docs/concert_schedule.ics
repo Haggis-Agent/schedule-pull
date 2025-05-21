@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Lucius
-DTSTART;VALUE=DATE:20250520
-DTEND;VALUE=DATE:20250521
-DTSTAMP:20250505T144100Z
-UID:839516@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Victoria Canal\nAge: A
- ll Ages\nGenre: Indie / Emo
-LAST-MODIFIED:20250505T144100Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/839516/lucius-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Wonder Years and the Little Kruta String Ensemble
 DTSTART;VALUE=DATE:20250521
 DTEND;VALUE=DATE:20250522
