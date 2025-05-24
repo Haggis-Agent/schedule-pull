@@ -27,18 +27,6 @@ LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/843870/nekrogoblikon-tickets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lil Poppa
-DTSTART;VALUE=DATE:20250526
-DTEND;VALUE=DATE:20250527
-DTSTAMP:20250522T213619Z
-UID:906457@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Jdot Breezy\nAge: All 
- Ages\nGenre: Hip Hop / Rap
-LAST-MODIFIED:20250522T213619Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/906457/lil-poppa-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Corinne Bailey Rae
 DTSTART;VALUE=DATE:20250527
 DTEND;VALUE=DATE:20250528
@@ -100,11 +88,11 @@ BEGIN:VEVENT
 SUMMARY:JPEGMAFIA
 DTSTART;VALUE=DATE:20250609
 DTEND;VALUE=DATE:20250610
-DTSTAMP:20250331T213401Z
+DTSTAMP:20250523T204152Z
 UID:893656@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Hip Hop /
   Rap
-LAST-MODIFIED:20250331T213401Z
+LAST-MODIFIED:20250523T204152Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/893656/jpegmafia-tickets
 END:VEVENT
@@ -309,6 +297,18 @@ LAST-MODIFIED:20250423T184906Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/832481/mary-chapin-carpenter-brandy-clark-t
  ickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lil Poppa
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+DTSTAMP:20250523T140257Z
+UID:906457@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Jdot Breezy\nAge: All 
+ Ages\nGenre: Hip Hop / Rap
+LAST-MODIFIED:20250523T140257Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/906457/lil-poppa-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Umphrey's McGee
