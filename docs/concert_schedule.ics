@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Corinne Bailey Rae
-DTSTART;VALUE=DATE:20250527
-DTEND;VALUE=DATE:20250528
-DTSTAMP:20250127T221342Z
-UID:822335@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: R&B
-LAST-MODIFIED:20250127T221342Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/822335/corinne-bailey-rae-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Menzingers
 DTSTART;VALUE=DATE:20250529
 DTEND;VALUE=DATE:20250530
@@ -531,6 +520,19 @@ LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/833188/johnnyswim-tickets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A.J. Croce Presents CROCE PLAYS CROCE
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+DTSTAMP:20250527T173245Z
+UID:978132@thenationalva.com
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Jazz / Bl
+ ues
+LAST-MODIFIED:20250527T173245Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/978132/a-j-croce-presents-croce-plays-croce
+ -tickets
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Saint Motel
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251023
@@ -621,5 +623,17 @@ DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Lectures
 LAST-MODIFIED:20250318T135545Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/646899/dr-death-a-closer-look-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Whitechapel
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+DTSTAMP:20250527T160903Z
+UID:977735@thenationalva.com
+DESCRIPTION:Doors: 6:00 PM\nShow: 6:55 PM\nSupport: Bodysnatcher\, AngelMa
+ ker\, Disembodied Tyrant\nAge: All Ages\nGenre: Hard Rock / Metal
+LAST-MODIFIED:20250527T160903Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/977735/whitechapel-tickets
 END:VEVENT
 END:VCALENDAR
