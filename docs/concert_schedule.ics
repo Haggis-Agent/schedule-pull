@@ -3,17 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Robin Trower
-DTSTART;VALUE=DATE:20250611
-DTEND;VALUE=DATE:20250612
-DTSTAMP:20250123T221034Z
-UID:826564@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Rock
-LAST-MODIFIED:20250123T221034Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/826564/robin-trower-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jack's Mannequin
 DTSTART;VALUE=DATE:20250612
 DTEND;VALUE=DATE:20250613
@@ -106,6 +95,17 @@ DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Comedy
 LAST-MODIFIED:20250509T205214Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/819708/trevor-wallace-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Love R&B
+DTSTART;VALUE=DATE:20250703
+DTEND;VALUE=DATE:20250704
+DTSTAMP:20250611T134150Z
+UID:1016496@thenationalva.com
+DESCRIPTION:Doors: 9:00 PM\nShow: 9:00 PM
+LAST-MODIFIED:20250611T134150Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/1016496/i-love-rb-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ben Burnley of Breaking Benjamin Unplugged
