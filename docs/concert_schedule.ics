@@ -3,25 +3,13 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Coco Jones
-DTSTART;VALUE=DATE:20250624
-DTEND;VALUE=DATE:20250625
-DTSTAMP:20250226T151116Z
-UID:861282@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Lady London\nAge: All 
- Ages\nGenre: Other
-LAST-MODIFIED:20250226T151116Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/861282/coco-jones-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trevor Wallace
 DTSTART;VALUE=DATE:20250626
 DTEND;VALUE=DATE:20250627
-DTSTAMP:20250623T203850Z
+DTSTAMP:20250624T145533Z
 UID:819708@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Comedy
-LAST-MODIFIED:20250623T203850Z
+LAST-MODIFIED:20250624T145533Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/819708/trevor-wallace-tickets
 END:VEVENT
@@ -406,10 +394,10 @@ BEGIN:VEVENT
 SUMMARY:Jeremy Zucker
 DTSTART;VALUE=DATE:20250927
 DTEND;VALUE=DATE:20250928
-DTSTAMP:20250623T194518Z
+DTSTAMP:20250624T213102Z
 UID:997331@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Pop
-LAST-MODIFIED:20250623T194518Z
+LAST-MODIFIED:20250624T213102Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/997331/jeremy-zucker-tickets
 END:VEVENT
@@ -483,6 +471,18 @@ DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Alternati
 LAST-MODIFIED:20250509T205557Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/937187/2hollis-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sir Chloe
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251015
+DTSTAMP:20250624T214123Z
+UID:1029515@thenationalva.com
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Suzy Clue\nAge: All Ag
+ es\nGenre: Indie / Emo
+LAST-MODIFIED:20250624T214123Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/1029515/sir-chloe-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cannibal Corpse
@@ -647,5 +647,29 @@ DESCRIPTION:Doors: 6:00 PM\nShow: 6:55 PM\nSupport: Bodysnatcher\, AngelMa
 LAST-MODIFIED:20250528T174107Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/977735/whitechapel-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:49 Winchester
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+DTSTAMP:20250623T173619Z
+UID:997334@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: The Vegabonds\, Sela C
+ ampbell\nAge: All Ages\nGenre: Country
+LAST-MODIFIED:20250623T173619Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/997334/49-winchester-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:49 Winchester
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+DTSTAMP:20250623T174023Z
+UID:997343@thenationalva.com
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Maggie Antone\nAge: Al
+ l Ages\nGenre: Country
+LAST-MODIFIED:20250623T174023Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/997343/49-winchester-tickets
 END:VEVENT
 END:VCALENDAR
