@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:In This Moment
-DTSTART;VALUE=DATE:20250812
-DTEND;VALUE=DATE:20250813
-DTSTAMP:20250811T220544Z
-UID:956560@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Wargasm\, Kat Von D\, 
- The Pretty Wild\nAge: All Ages\nGenre: Hard Rock / Metal
-LAST-MODIFIED:20250811T220544Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/956560/in-this-moment-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Wood Brothers
 DTSTART;VALUE=DATE:20250813
 DTEND;VALUE=DATE:20250814
@@ -149,11 +137,11 @@ BEGIN:VEVENT
 SUMMARY:Big Wild
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
-DTSTAMP:20250507T211305Z
+DTSTAMP:20250812T221443Z
 UID:951692@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Dance / E
  lectronic
-LAST-MODIFIED:20250507T211305Z
+LAST-MODIFIED:20250812T221443Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/951692/big-wild-tickets
 END:VEVENT
@@ -653,6 +641,18 @@ DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Family Ev
 LAST-MODIFIED:20250623T174939Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/971046/jonathan-van-ness-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memphis May Fire
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+DTSTAMP:20250812T192014Z
+UID:1085579@thenationalva.com
+DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: Rain City Drive\, Neve
+ rtel\, If Not For Me\nAge: All Ages\nGenre: Hard Rock / Metal
+LAST-MODIFIED:20250812T192014Z
+LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
+URL:https://www.axs.com/events/1085579/memphis-may-fire-tickets
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zakk Sabbath
