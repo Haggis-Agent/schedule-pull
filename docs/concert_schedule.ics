@@ -645,11 +645,11 @@ BEGIN:VEVENT
 SUMMARY:Memphis May Fire
 DTSTART;VALUE=DATE:20251122
 DTEND;VALUE=DATE:20251123
-DTSTAMP:20250812T192014Z
+DTSTAMP:20250814T160233Z
 UID:1085579@thenationalva.com
 DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: Rain City Drive\, Neve
  rtel\, If Not For Me\nAge: All Ages\nGenre: Hard Rock / Metal
-LAST-MODIFIED:20250812T192014Z
+LAST-MODIFIED:20250814T160233Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1085579/memphis-may-fire-tickets
 END:VEVENT
