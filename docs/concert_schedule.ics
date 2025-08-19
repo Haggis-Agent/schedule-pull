@@ -6,11 +6,11 @@ BEGIN:VEVENT
 SUMMARY:Lil Poppa
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250823
-DTSTAMP:20250811T132235Z
+DTSTAMP:20250818T180249Z
 UID:906457@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Jdot Breezy\nAge: All 
  Ages\nGenre: Hip Hop / Rap
-LAST-MODIFIED:20250811T132235Z
+LAST-MODIFIED:20250818T180249Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/906457/lil-poppa-tickets
 END:VEVENT
@@ -88,11 +88,11 @@ BEGIN:VEVENT
 SUMMARY:Maddox Batson
 DTSTART;VALUE=DATE:20250907
 DTEND;VALUE=DATE:20250908
-DTSTAMP:20250715T190322Z
+DTSTAMP:20250818T180142Z
 UID:953048@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Ashley Anne\nAge: All 
  Ages\nGenre: Country
-LAST-MODIFIED:20250715T190322Z
+LAST-MODIFIED:20250818T180142Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/953048/maddox-batson-tickets
 END:VEVENT
@@ -323,11 +323,11 @@ BEGIN:VEVENT
 SUMMARY:United We Dance: The Ultimate Rave Experience
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
-DTSTAMP:20250723T151536Z
+DTSTAMP:20250818T180413Z
 UID:1064169@thenationalva.com
 DESCRIPTION:Doors: 8:00 PM\nShow: 9:00 PM\nAge: All Ages\nGenre: Dance / E
  lectronic
-LAST-MODIFIED:20250723T151536Z
+LAST-MODIFIED:20250818T180413Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1064169/united-we-dance-the-ultimate-rave-e
  xperience-tickets
@@ -514,10 +514,11 @@ BEGIN:VEVENT
 SUMMARY:The Happy Fits
 DTSTART;VALUE=DATE:20251101
 DTEND;VALUE=DATE:20251102
-DTSTAMP:20250501T194205Z
+DTSTAMP:20250818T160254Z
 UID:951650@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Other
-LAST-MODIFIED:20250501T194205Z
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Pom Pom Squad\, The Ba
+ ckfires\nAge: All Ages\nGenre: Other
+LAST-MODIFIED:20250818T160254Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/951650/the-happy-fits-tickets
 END:VEVENT
