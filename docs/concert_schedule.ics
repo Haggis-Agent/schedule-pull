@@ -219,11 +219,11 @@ BEGIN:VEVENT
 SUMMARY:Lil Poppa
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
-DTSTAMP:20250822T184235Z
+DTSTAMP:20250825T114300Z
 UID:906457@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Jdot Breezy\nAge: All 
- Ages\nGenre: Hip Hop / Rap
-LAST-MODIFIED:20250822T184235Z
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Jdot Breezy\, Fattmack
+ \nAge: All Ages\nGenre: Hip Hop / Rap
+LAST-MODIFIED:20250825T114300Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/906457/lil-poppa-tickets
 END:VEVENT
