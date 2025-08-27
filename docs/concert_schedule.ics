@@ -77,11 +77,11 @@ BEGIN:VEVENT
 SUMMARY:Big Wild
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
-DTSTAMP:20250820T151312Z
+DTSTAMP:20250826T195426Z
 UID:951692@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Shallou\nAge: All Ages
- \nGenre: Dance / Electronic
-LAST-MODIFIED:20250820T151312Z
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Dance / E
+ lectronic
+LAST-MODIFIED:20250826T195426Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/951692/big-wild-tickets
 END:VEVENT
