@@ -9,7 +9,7 @@ DTEND;VALUE=DATE:20250831
 DTSTAMP:20250801T204337Z
 UID:882971@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Tucker Knisell\nAge: A
- ll Ages\nGenre: Country
+ ll Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250801T204337Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/882971/muscadine-bloodline-tickets
@@ -33,7 +33,7 @@ DTEND;VALUE=DATE:20250906
 DTSTAMP:20250828T171524Z
 UID:1025480@thenationalva.com
 DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: Unity TX\, MSPAINT\nAg
- e: All Ages\nGenre: Other
+ e: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250828T171524Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1025480/poppy-tickets
@@ -45,7 +45,7 @@ DTEND;VALUE=DATE:20250907
 DTSTAMP:20250603T135715Z
 UID:932472@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Mark Daly\nAge: All Ag
- es\nGenre: Rock
+ es\nGenre: Unknown Genre
 LAST-MODIFIED:20250603T135715Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/932472/the-darkness-tickets
@@ -57,7 +57,7 @@ DTEND;VALUE=DATE:20250908
 DTSTAMP:20250818T180142Z
 UID:953048@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Ashley Anne\nAge: All 
- Ages\nGenre: Country
+ Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250818T180142Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/953048/maddox-batson-tickets
@@ -68,8 +68,8 @@ DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
 DTSTAMP:20250826T195426Z
 UID:951692@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Dance / E
- lectronic
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250826T195426Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/951692/big-wild-tickets
@@ -79,11 +79,11 @@ SUMMARY:Hokus Pokus Live! Starring Ginger Minj\, Jujubee\, and Sapphira Cr
  istál
 DTSTART;VALUE=DATE:20250909
 DTEND;VALUE=DATE:20250910
-DTSTAMP:20250716T140623Z
+DTSTAMP:20250829T173451Z
 UID:1050946@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: ft. Landon Cider\nAge:
-  All Ages\nGenre: Theater
-LAST-MODIFIED:20250716T140623Z
+  All Ages\nGenre: Unknown Genre
+LAST-MODIFIED:20250829T173451Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1050946/hokus-pokus-live-starring-ginger-mi
  nj-jujubee-and-sapphira-cristal-tickets
@@ -94,8 +94,8 @@ DTSTART;VALUE=DATE:20250910
 DTEND;VALUE=DATE:20250911
 DTSTAMP:20250625T135432Z
 UID:1029764@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Hard Rock
-  / Metal
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250625T135432Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1029764/apocalyptica-tickets
@@ -107,7 +107,7 @@ DTEND;VALUE=DATE:20250912
 DTSTAMP:20250827T162405Z
 UID:1003820@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Toledo\nAge: All Ages\
- nGenre: Alternative / Punk
+ nGenre: Unknown Genre
 LAST-MODIFIED:20250827T162405Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1003820/the-brook-the-bluff-tickets
@@ -119,7 +119,7 @@ DTEND;VALUE=DATE:20250913
 DTSTAMP:20250508T162358Z
 UID:965866@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Dummy\nAge: All Ages\n
- Genre: Indie / Emo
+ Genre: Unknown Genre
 LAST-MODIFIED:20250508T162358Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/965866/soccer-mommy-tickets
@@ -128,10 +128,11 @@ BEGIN:VEVENT
 SUMMARY:Noel Miller: Live!
 DTSTART;VALUE=DATE:20250913
 DTEND;VALUE=DATE:20250914
-DTSTAMP:20250321T220300Z
+DTSTAMP:20250829T141528Z
 UID:873775@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Comedy
-LAST-MODIFIED:20250321T220300Z
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
+LAST-MODIFIED:20250829T141528Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/873775/noel-miller-live-tickets
 END:VEVENT
@@ -141,7 +142,8 @@ DTSTART;VALUE=DATE:20250913
 DTEND;VALUE=DATE:20250914
 DTSTAMP:20250321T220055Z
 UID:879910@thenationalva.com
-DESCRIPTION:Doors: 9:00 PM\nShow: 9:30 PM\nAge: All Ages\nGenre: Comedy
+DESCRIPTION:Doors: 9:00 PM\nShow: 9:30 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250321T220055Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/879910/noel-miller-live-late-show-tickets
@@ -153,7 +155,7 @@ DTEND;VALUE=DATE:20250916
 DTSTAMP:20250501T152916Z
 UID:953042@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 7:30 PM\nSupport: Open Mike Eagle\nAge: 
- All Ages\nGenre: Dance / Electronic
+ All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250501T152916Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/953042/phantogram-tickets
@@ -164,7 +166,8 @@ DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
 DTSTAMP:20250509T205419Z
 UID:942980@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Rock
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250509T205419Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/942980/inhaler-tickets
@@ -188,7 +191,7 @@ DTEND;VALUE=DATE:20250919
 DTSTAMP:20250505T220940Z
 UID:967114@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Ekko Astral\nAge: All 
- Ages\nGenre: Alternative / Punk
+ Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250505T220940Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/967114/pup-fall-2025-tickets
@@ -199,7 +202,8 @@ DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
 DTSTAMP:20250512T180038Z
 UID:891235@thenationalva.com
-DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Comedy
+DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250512T180038Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/891235/whitney-cummings-tickets
@@ -211,7 +215,7 @@ DTEND;VALUE=DATE:20250921
 DTSTAMP:20250825T114300Z
 UID:906457@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Jdot Breezy\, Fattmack
- \nAge: All Ages\nGenre: Hip Hop / Rap
+ \nAge: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250825T114300Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/906457/lil-poppa-tickets
@@ -222,7 +226,8 @@ DTSTART;VALUE=DATE:20250921
 DTEND;VALUE=DATE:20250922
 DTSTAMP:20250725T135456Z
 UID:1052225@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Pop
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250725T135456Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1052225/malcolm-todd-tickets
@@ -234,7 +239,7 @@ DTEND;VALUE=DATE:20250924
 DTSTAMP:20250605T165644Z
 UID:1008229@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Sincere Engineer\nAge:
-  All Ages\nGenre: Alternative / Punk
+  All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250605T165644Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1008229/the-front-bottoms-tickets
@@ -246,7 +251,7 @@ DTEND;VALUE=DATE:20250926
 DTSTAMP:20250805T202555Z
 UID:1002796@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Cassandra Coleman\nAge
- : All Ages\nGenre: Indie / Emo
+ : All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250805T202555Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1002796/young-the-giant-tickets
@@ -257,8 +262,8 @@ DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250927
 DTSTAMP:20250401T182701Z
 UID:916791@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Alternati
- ve / Punk
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250401T182701Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/916791/franz-ferdinand-tickets
@@ -270,7 +275,7 @@ DTEND;VALUE=DATE:20250928
 DTSTAMP:20250820T135736Z
 UID:997331@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Sydney Mitchell Ross\n
- Age: All Ages\nGenre: Pop
+ Age: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250820T135736Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/997331/jeremy-zucker-tickets
@@ -282,7 +287,7 @@ DTEND;VALUE=DATE:20250929
 DTSTAMP:20250509T153437Z
 UID:965862@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Glixen\, Sundots\nAge:
-  All Ages\nGenre: Alternative / Punk
+  All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250509T153437Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/965862/panchiko-tickets
@@ -293,7 +298,8 @@ DTSTART;VALUE=DATE:20251003
 DTEND;VALUE=DATE:20251004
 DTSTAMP:20250807T153409Z
 UID:1085863@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Pop
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250807T153409Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1085863/the-legwarmers-tickets
@@ -304,8 +310,8 @@ DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251005
 DTSTAMP:20250818T180413Z
 UID:1064169@thenationalva.com
-DESCRIPTION:Doors: 8:00 PM\nShow: 9:00 PM\nAge: All Ages\nGenre: Dance / E
- lectronic
+DESCRIPTION:Doors: 8:00 PM\nShow: 9:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250818T180413Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1064169/united-we-dance-the-ultimate-rave-e
@@ -317,8 +323,8 @@ DTSTART;VALUE=DATE:20251005
 DTEND;VALUE=DATE:20251006
 DTSTAMP:20250507T164220Z
 UID:955576@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Hip Hop /
-  Rap
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250507T164220Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/955576/bladee-tickets
@@ -330,7 +336,7 @@ DTEND;VALUE=DATE:20251008
 DTSTAMP:20250418T233954Z
 UID:930359@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Des Demonas\nAge: All 
- Ages\nGenre: Country
+ Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250418T233954Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/930359/neko-case-tickets
@@ -342,7 +348,7 @@ DTEND;VALUE=DATE:20251010
 DTSTAMP:20250618T191808Z
 UID:969697@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Miya Folick \nAge: All
-  Ages\nGenre: Pop
+  Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250618T191808Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/969697/peach-pit-tickets
@@ -353,7 +359,8 @@ DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
 DTSTAMP:20250804T160043Z
 UID:1056969@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Other
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250804T160043Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1056969/andrew-callaghan-all-gas-no-brakes-
@@ -365,7 +372,8 @@ DTSTART;VALUE=DATE:20251011
 DTEND;VALUE=DATE:20251012
 DTSTAMP:20250801T133723Z
 UID:1008243@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Pop
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250801T133723Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1008243/jp-saxe-tickets
@@ -376,8 +384,8 @@ DTSTART;VALUE=DATE:20251012
 DTEND;VALUE=DATE:20251013
 DTSTAMP:20250509T205557Z
 UID:937187@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Alternati
- ve / Punk
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250509T205557Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/937187/2hollis-tickets
@@ -389,7 +397,7 @@ DTEND;VALUE=DATE:20251015
 DTSTAMP:20250624T214123Z
 UID:1029515@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Suzy Clue\nAge: All Ag
- es\nGenre: Indie / Emo
+ es\nGenre: Unknown Genre
 LAST-MODIFIED:20250624T214123Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1029515/sir-chloe-tickets
@@ -401,7 +409,7 @@ DTEND;VALUE=DATE:20251016
 DTSTAMP:20250606T135839Z
 UID:952144@thenationalva.com
 DESCRIPTION:Doors: 6:00 PM\nShow: 6:55 PM\nSupport: Municipal Waste\, Full
-  of Hell\, Fulci\nAge: All Ages\nGenre: Rock
+  of Hell\, Fulci\nAge: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250606T135839Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/952144/cannibal-corpse-tickets
@@ -413,7 +421,7 @@ DTEND;VALUE=DATE:20251018
 DTSTAMP:20250828T145951Z
 UID:833188@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Shua\nAge: All Ages\nG
- enre: R&B
+ enre: Unknown Genre
 LAST-MODIFIED:20250828T145951Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/833188/johnnyswim-tickets
@@ -424,8 +432,8 @@ DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
 DTSTAMP:20250527T173245Z
 UID:978132@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Jazz / Bl
- ues
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250527T173245Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/978132/a-j-croce-presents-croce-plays-croce
@@ -438,7 +446,7 @@ DTEND;VALUE=DATE:20251023
 DTSTAMP:20250723T133618Z
 UID:934583@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Adan Diaz\nAge: All Ag
- es\nGenre: Indie / Emo
+ es\nGenre: Unknown Genre
 LAST-MODIFIED:20250723T133618Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/934583/saint-motel-tickets
@@ -449,7 +457,8 @@ DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
 DTSTAMP:20250214T192630Z
 UID:859591@thenationalva.com
-DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Comedy
+DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250214T192630Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/859591/chris-distefano-tickets
@@ -461,7 +470,7 @@ DTEND;VALUE=DATE:20251027
 DTSTAMP:20250806T160308Z
 UID:771710@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Jacob Jeffries\nAge: A
- ll Ages\nGenre: Pop
+ ll Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250806T160308Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/771710/lawrence-tickets
@@ -473,7 +482,7 @@ DTEND;VALUE=DATE:20251029
 DTSTAMP:20250606T180447Z
 UID:997326@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: SASAMI\nAge: All Ages\
- nGenre: Pop
+ nGenre: Unknown Genre
 LAST-MODIFIED:20250606T180447Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/997326/king-princess-tickets
@@ -485,7 +494,7 @@ DTEND;VALUE=DATE:20251101
 DTSTAMP:20250502T171555Z
 UID:925825@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Harper O'Neill\nAge: A
- ll Ages\nGenre: Country
+ ll Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250502T171555Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/925825/ty-myers-tickets
@@ -497,7 +506,7 @@ DTEND;VALUE=DATE:20251102
 DTSTAMP:20250818T160254Z
 UID:951650@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Pom Pom Squad\, The Ba
- ckfires\nAge: All Ages\nGenre: Other
+ ckfires\nAge: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250818T160254Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/951650/the-happy-fits-tickets
@@ -509,7 +518,7 @@ DTEND;VALUE=DATE:20251103
 DTSTAMP:20250722T155059Z
 UID:1063531@thenationalva.com
 DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: Nuovo Testamento\, Whi
- spers\nAge: All Ages\nGenre: Hard Rock / Metal
+ spers\nAge: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250722T155059Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1063531/sunami-scowl-tickets
@@ -521,7 +530,7 @@ DTEND;VALUE=DATE:20251105
 DTSTAMP:20250723T134450Z
 UID:974343@thenationalva.com
 DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: Vern Daysel\, The Burn
- ing Breeze\nAge: All Ages\nGenre: Other
+ ing Breeze\nAge: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250723T134450Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/974343/richie-kotzen-john-5-tickets
@@ -532,8 +541,8 @@ DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251106
 DTSTAMP:20250314T133640Z
 UID:876044@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Family Ev
- ents
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250314T133640Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/876044/ancient-aliens-live-tickets
@@ -544,8 +553,8 @@ DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251107
 DTSTAMP:20250708T162724Z
 UID:646899@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Lectures 
- and Seminars
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250708T162724Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/646899/dr-death-a-closer-look-tickets
@@ -556,8 +565,8 @@ DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 DTSTAMP:20250729T204410Z
 UID:1067864@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Dance / E
- lectronic
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250729T204410Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1067864/the-disco-biscuits-tickets
@@ -569,7 +578,7 @@ DTEND;VALUE=DATE:20251115
 DTSTAMP:20250804T182706Z
 UID:1074644@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Spencer LaJoye\nAge: A
- ll Ages\nGenre: Indie / Emo
+ ll Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250804T182706Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1074644/the-crane-wives-tickets
@@ -580,7 +589,8 @@ DTSTART;VALUE=DATE:20251115
 DTEND;VALUE=DATE:20251116
 DTSTAMP:20250707T153013Z
 UID:1035191@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Comedy
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250707T153013Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1035191/jessica-kirson-tickets
@@ -591,8 +601,8 @@ DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 DTSTAMP:20250623T174939Z
 UID:971046@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Family Ev
- ents
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250623T174939Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/971046/jonathan-van-ness-tickets
@@ -604,7 +614,7 @@ DTEND;VALUE=DATE:20251123
 DTSTAMP:20250814T160233Z
 UID:1085579@thenationalva.com
 DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: Rain City Drive\, Neve
- rtel\, If Not For Me\nAge: All Ages\nGenre: Hard Rock / Metal
+ rtel\, If Not For Me\nAge: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250814T160233Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1085579/memphis-may-fire-tickets
@@ -616,7 +626,7 @@ DTEND;VALUE=DATE:20251201
 DTSTAMP:20250804T181124Z
 UID:1006365@thenationalva.com
 DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nSupport: AC/DC Tribute: BONFIRE
- \, Dark Chapel\nAge: All Ages\nGenre: Other
+ \, Dark Chapel\nAge: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250804T181124Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1006365/zakk-sabbath-tickets
@@ -628,7 +638,7 @@ DTEND;VALUE=DATE:20251206
 DTSTAMP:20250808T153330Z
 UID:1081961@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:00 PM\nSupport: Big Something\nAge: Al
- l Ages\nGenre: Jazz / Blues
+ l Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250808T153330Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1081961/pigeons-playing-ping-pong-tickets
@@ -640,7 +650,7 @@ DTEND;VALUE=DATE:20251207
 DTSTAMP:20250808T152810Z
 UID:1083908@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:00 PM\nSupport: Big Something\nAge: Al
- l Ages\nGenre: Jazz / Blues
+ l Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250808T152810Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1083908/pigeons-playing-ping-pong-tickets
@@ -652,7 +662,7 @@ DTEND;VALUE=DATE:20251209
 DTSTAMP:20250528T174107Z
 UID:977735@thenationalva.com
 DESCRIPTION:Doors: 6:00 PM\nShow: 6:55 PM\nSupport: Bodysnatcher\, AngelMa
- ker\, Disembodied Tyrant\nAge: All Ages\nGenre: Hard Rock / Metal
+ ker\, Disembodied Tyrant\nAge: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250528T174107Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/977735/whitechapel-tickets
@@ -664,7 +674,7 @@ DTEND;VALUE=DATE:20251220
 DTSTAMP:20250623T173619Z
 UID:997334@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: The Vegabonds\, Sela C
- ampbell\nAge: All Ages\nGenre: Country
+ ampbell\nAge: All Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250623T173619Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/997334/49-winchester-tickets
@@ -676,7 +686,7 @@ DTEND;VALUE=DATE:20251221
 DTSTAMP:20250623T174023Z
 UID:997343@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Maggie Antone\nAge: Al
- l Ages\nGenre: Country
+ l Ages\nGenre: Unknown Genre
 LAST-MODIFIED:20250623T174023Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/997343/49-winchester-tickets
@@ -687,8 +697,8 @@ DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20260101
 DTSTAMP:20250806T175104Z
 UID:1071358@thenationalva.com
-DESCRIPTION:Doors: 8:00 PM\nShow: 9:00 PM\nAge: All Ages\nGenre: Folk / Ac
- oustic
+DESCRIPTION:Doors: 8:00 PM\nShow: 9:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250806T175104Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1071358/carbon-leaf-tickets
@@ -701,7 +711,7 @@ DTSTAMP:20250801T175148Z
 UID:943289@thenationalva.com
 DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Featuring the vocals o
  f Hayley Sanderson from The UK’s Strictly Come Dancing \nAge: All Ages\n
- Genre: Other
+ Genre: Unknown Genre
 LAST-MODIFIED:20250801T175148Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/943289/rick-wakeman-tickets
@@ -712,8 +722,8 @@ DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260417
 DTSTAMP:20250718T171332Z
 UID:974333@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Indie / E
- mo
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
+ enre
 LAST-MODIFIED:20250718T171332Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/974333/whitney-tickets
