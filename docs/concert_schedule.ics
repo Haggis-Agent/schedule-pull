@@ -42,11 +42,11 @@ BEGIN:VEVENT
 SUMMARY:Big Wild
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250909
-DTSTAMP:20250826T195426Z
+DTSTAMP:20250904T132953Z
 UID:951692@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
- enre
-LAST-MODIFIED:20250826T195426Z
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Brothertiger\nAge: All
+  Ages\nGenre: Unknown Genre
+LAST-MODIFIED:20250904T132953Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/951692/big-wild-tickets
 END:VEVENT
@@ -140,11 +140,11 @@ BEGIN:VEVENT
 SUMMARY:Inhaler
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
-DTSTAMP:20250509T205419Z
+DTSTAMP:20250904T144530Z
 UID:942980@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nAge: All Ages\nGenre: Unknown G
- enre
-LAST-MODIFIED:20250509T205419Z
+DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: Dayfiction\nAge: All A
+ ges\nGenre: Unknown Genre
+LAST-MODIFIED:20250904T144530Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/942980/inhaler-tickets
 END:VEVENT
