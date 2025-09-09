@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Big Wild
-DTSTART;VALUE=DATE:20250908
-DTEND;VALUE=DATE:20250909
-DTSTAMP:20250904T132953Z
-UID:951692@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Brothertiger\nAge: All
-  Ages\nGenre: Unknown Genre
-LAST-MODIFIED:20250904T132953Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/951692/big-wild-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hokus Pokus Live! Starring Ginger Minj\, Jujubee\, and Sapphira Cr
  istál
 DTSTART;VALUE=DATE:20250909
@@ -140,11 +128,11 @@ BEGIN:VEVENT
 SUMMARY:Whitney Cummings
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
-DTSTAMP:20250512T180038Z
+DTSTAMP:20250908T161442Z
 UID:891235@thenationalva.com
 DESCRIPTION:Doors: 6:00 PM\nShow: 7:00 PM\nAge: All Ages\nGenre: Unknown G
  enre
-LAST-MODIFIED:20250512T180038Z
+LAST-MODIFIED:20250908T161442Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/891235/whitney-cummings-tickets
 END:VEVENT
@@ -261,11 +249,11 @@ BEGIN:VEVENT
 SUMMARY:Bladee
 DTSTART;VALUE=DATE:20251005
 DTEND;VALUE=DATE:20251006
-DTSTAMP:20250507T164220Z
+DTSTAMP:20250908T165835Z
 UID:955576@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
- enre
-LAST-MODIFIED:20250507T164220Z
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Ripsquadd\nAge: All Ag
+ es\nGenre: Unknown Genre
+LAST-MODIFIED:20250908T165835Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/955576/bladee-tickets
 END:VEVENT
