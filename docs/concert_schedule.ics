@@ -3,20 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Hokus Pokus Live! Starring Ginger Minj\, Jujubee\, and Sapphira Cr
- istál
-DTSTART;VALUE=DATE:20250909
-DTEND;VALUE=DATE:20250910
-DTSTAMP:20250829T173451Z
-UID:1050946@thenationalva.com
-DESCRIPTION:Doors: 7:00 PM\nShow: 8:00 PM\nSupport: ft. Landon Cider\nAge:
-  All Ages\nGenre: Unknown Genre
-LAST-MODIFIED:20250829T173451Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/1050946/hokus-pokus-live-starring-ginger-mi
- nj-jujubee-and-sapphira-cristal-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Apocalyptica 
 DTSTART;VALUE=DATE:20250910
 DTEND;VALUE=DATE:20250911
@@ -310,11 +296,11 @@ BEGIN:VEVENT
 SUMMARY:2hollis
 DTSTART;VALUE=DATE:20251012
 DTEND;VALUE=DATE:20251013
-DTSTAMP:20250509T205557Z
+DTSTAMP:20250909T190401Z
 UID:937187@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
- enre
-LAST-MODIFIED:20250509T205557Z
+DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: ROMMULAS\nAge: All Age
+ s\nGenre: Unknown Genre
+LAST-MODIFIED:20250909T190401Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/937187/2hollis-tickets
 END:VEVENT
