@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//TheNationalVA//ConcertSchedule//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:PUP & Jeff Rosenstock
-DTSTART;VALUE=DATE:20250918
-DTEND;VALUE=DATE:20250919
-DTSTAMP:20250903T171641Z
-UID:967114@thenationalva.com
-DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nSupport: Ekko Astral\nAge: All 
- Ages\nGenre: Unknown Genre
-LAST-MODIFIED:20250903T171641Z
-LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
-URL:https://www.axs.com/events/967114/pup-jeff-rosenstock-tickets
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Whitney Cummings
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
@@ -393,11 +381,11 @@ BEGIN:VEVENT
 SUMMARY:Mario Presents: The Nothing But Us Tour 2025
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20251114
-DTSTAMP:20250916T153328Z
+DTSTAMP:20250918T160311Z
 UID:1123851@thenationalva.com
 DESCRIPTION:Doors: 6:30 PM\nShow: 7:30 PM\nAge: All Ages\nGenre: Unknown G
  enre
-LAST-MODIFIED:20250916T153328Z
+LAST-MODIFIED:20250918T160311Z
 LOCATION:The National\, 708 East Broad Street\, Richmond\, VA 23219
 URL:https://www.axs.com/events/1123851/mario-presents-the-nothing-but-us-t
  our-2025-tickets
